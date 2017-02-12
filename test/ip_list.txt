@@ -1,0 +1,7 @@
+non-network local connections being added to access control list
+10.0.0.22	
+10.0.0.23	
+10.0.0.101	
+10.0.0.140	
+10.0.0.176	
+10.0.0.185
